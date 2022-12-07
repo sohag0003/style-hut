@@ -1,0 +1,26 @@
+a{
+    margin-right: 40px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.hero{
+    background-color: #ff4545;
+    height: 700px;
+}
+.hero-text{
+    padding-top: 100px;
+    
+}
+
+.bg-sales{
+    background-color: #dedddb;
+}
+
+.logo{
+  color:  #ff4545;
+  border: 3px solid black;
+  width: 145px;
+  text-align: center;
+}
